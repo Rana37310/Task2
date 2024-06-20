@@ -1,3 +1,5 @@
-# Task2
-To run the code, execute the 'main' class.
+
+# Task 2
 Recursive Factorial Function
+## Instructions
+To run the code, execute the `main` class.
